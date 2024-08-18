@@ -1,11 +1,11 @@
 <?php
 /*
- Plugin Name: Twitter Auto Publish
-Plugin URI: http://xyzscripts.com/wordpress-plugins/twitter-auto-publish/
+ Plugin Name: Social Media Auto Publish
+Plugin URI: https://modelpeeps.com
 Description:   Publish posts automatically from your blog to Twitter social media. You can publish your posts to Twitter as simple text message or as text message with image. The plugin supports filtering posts by post-types and categories.
 Version: 1.2.2
-Author: xyzscripts.com
-Author URI: http://xyzscripts.com/
+Author: Prabin Singh Thakuri
+Author URI: https://www.linkedin.com/in/prabin-singh-thakuri/
 License: GPLv2 or later
 */
 
