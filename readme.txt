@@ -1,6 +1,5 @@
-﻿=== Twitter Auto Publish ===
-Contributors: f1logic
-Donate link: http://xyzscripts.com/donate/
+﻿=== Social Media Auto Publish ===
+Contributors: Prabin Singh Thakuri
 Tags:  twitter, twitter auto publish, publish post to twitter, add link to twitter, twitter publishing, post to twitter, social media auto publish, social media publishing, social network auto publish, social media, social network
 Requires at least: 2.8
 Tested up to: 4.3
@@ -63,20 +62,11 @@ Twitter Auto Publish is developed and maintained by [XYZScripts](http://xyzscrip
 
 == Installation ==
 
-★ [Twitter Auto Publish User Guide](http://docs.xyzscripts.com/wordpress-plugins/twitter-auto-publish/ "Twitter Auto Publish User Guide")
-★ [Twitter Auto Publish FAQ](http://kb.xyzscripts.com/wordpress-plugins/twitter-auto-publish/ "Twitter Auto Publish FAQ")
-
 1. Extract `twitter-auto-publish.zip` to your `/wp-content/plugins/` directory.
 2. In the admin panel under plugins activate Twitter Auto Publish.
 3. You can configure the settings from Twitter Auto Publish menu. (Make sure to Authorize Twitter application after saving the settings.)
 4. Once these are done, posts should get automatically published based on your filter settings.
 
-If you need any further help, you may contact our [support desk](http://xyzscripts.com/support/ "XYZScripts Support").
-
-== Frequently Asked Questions ==
-
-★ [Twitter Auto Publish User Guide](http://docs.xyzscripts.com/wordpress-plugins/twitter-auto-publish/ "Twitter Auto Publish User Guide")
-★ [Twitter Auto Publish FAQ](http://kb.xyzscripts.com/wordpress-plugins/twitter-auto-publish/ "Twitter Auto Publish FAQ")
 
 = 1. The Twitter Auto Publish is not working properly. =
 
@@ -101,11 +91,6 @@ You may use post title, content, excerpt, permalink, site title and user nicenam
 = 5. Why do I see SSL related errors in logs ? =
 
 SSL peer verification may not be functioning in your server. Please turn off SSL peer verification in settings of plugin and try again.
-
-
-More questions ? [Drop a mail](http://xyzscripts.com/members/support/ "XYZScripts Support") and we shall get back to you with the answers.
-
-
 == Screenshots ==
 
 1. This is the Twitter configuration section.
@@ -158,10 +143,6 @@ If you had issues  with default image used for auto publishing, you may apply th
 First official launch.
 
 == More Information ==
-
-★ [Twitter Auto Publish User Guide](http://docs.xyzscripts.com/wordpress-plugins/twitter-auto-publish/ "Twitter Auto Publish User Guide")
-★ [Twitter Auto Publish FAQ](http://kb.xyzscripts.com/wordpress-plugins/twitter-auto-publish/ "Twitter Auto Publish FAQ")
-
 = Troubleshooting =
 
 Please read the FAQ first if you are having problems.
@@ -173,4 +154,4 @@ Please read the FAQ first if you are having problems.
 
 = Feedback =
 
-We would like to receive your feedback and suggestions about Twitter Auto Publish plugin. You may submit them at our [support desk](http://xyzscripts.com/support/ "XYZScripts Support").
+We would like to receive your feedback and suggestions about Twitter Auto Publish plugin. You may submit them at our.
